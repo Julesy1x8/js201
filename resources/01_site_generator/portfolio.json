@@ -1,8 +1,4 @@
 {
-	"theme": {
-		"text-color": "#949494",
-		"background-color": "#F1ECBF"
-	},
 	"sections": [
 		{
 			"type": "header",

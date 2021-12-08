@@ -1,0 +1,24 @@
+Write a function that takes in two arguments:
+- a section object
+- a container
+
+That will
+
+- check if the section has an `images` property
+- randomly select an image if so
+- create an `img` element
+- append the element to the container
+
+Then factor this function into your project.
+
+
+// Hide the below:
+```js
+function renderImage(section, container) {
+	if (section.hasOwnProperty("images")) {
+		const image = c("img")
+		image.src = chooseRandomItem(section.images)
+		container.append(image)
+	}
+}
+```

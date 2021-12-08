@@ -1,0 +1,5 @@
+research and implement functions that implement different types of form elements:
+
+- radio buttons
+- multiple choice buttons
+- `select` elements

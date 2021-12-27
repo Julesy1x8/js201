@@ -1,0 +1,1 @@
+use event bubbling to implement a move counter that displays on the board.

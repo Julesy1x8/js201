@@ -1,0 +1,1 @@
+Write code necessary to demonstrate how `const` can be used to change certain types of value without producing an error. Come up with two examples using different kinds of value.

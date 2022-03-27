@@ -15,3 +15,5 @@ Take this array:
 ```js
 [false, false, false, true, true, true, true, true, true, true];
 ```
+
+3. Using the array represented in `weather.json` in the resources folder, use `.map()` to return a list of temperatures, discarding all the other information.

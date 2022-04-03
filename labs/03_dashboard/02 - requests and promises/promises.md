@@ -9,7 +9,7 @@
     
     ```
 
-2. Use this function to get two random numbers and add them together. Log the result to the console.
+2. Use this function to get two random numbers and add them together. Log the result to the console. Do _not_ use an `async` function to do this.
 
     ```js
     // Write your answer here
@@ -24,3 +24,19 @@
     ```
 
 4. In the same sandbox project, use `Promise.all()` to make two requests, and then log their results to the console.
+
+    ```js
+    // Copy your JavaScript here
+    ```
+
+5. Write a function that recieves a button element as an argument. The function should return a promise that resolves when the button is pressed. Once it resolves, it should log a message to the console.
+
+    ```js
+    // Copy your JavaScript here
+    ```
+
+6. Modify the function so that it doesn't resolve only once, but as many times as the button is pressed.
+
+    ```js
+    // Copy your JavaScript here
+    ```

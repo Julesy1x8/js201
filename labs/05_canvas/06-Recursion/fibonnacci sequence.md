@@ -1,36 +1,38 @@
-```
+# Fibonnacci Sequence
+
+In this lab you should write a recursive implementation of the fibonnacci sequence.
+
+The fibonnacci sequence can be calculated with this formula:
+
+```js
 nextNumber = previousNumber + previousPreviousNumber
 ```
 
 If the sequence starts with 0.
 
-```
-0
-```
-
 The next number is just 1
 
-```
+```text
 0, 1
 ^  ^
 ```
 
 Since there are now two numbers, the next number is the first and second position added together `0 + 1`
 
-```
+```text
 0, 1, 1
    ^  ^
 ```
 
 The next number is `1 + 1`
 
-```
+```text
 0, 1, 1, 2
 ```
 
 And so on
 
-```
+```text
 0, 1, 1, 2, 3, 5, 8, 13 ...
 ```
 
@@ -39,8 +41,9 @@ The typical recursive function that is asked of interviewees is to calculate the
 ```javascript
 
 function fib(n){
-	...
+    ...
 }
+
 ```
 
 ```javascript
@@ -50,19 +53,7 @@ fib(2) = 1
 fib(3) = 2
 fib(4) = 3
 ...
+
 ```
 
-See if you can solve it!
-
-[SPOILER]
-
-```javascript
-function fib(n){
-	if (n === 0) return 0
-	if (n === 1) return 1
-	
-	return fib(n-1) + fib(n-2)
-}
-```
-
-[/SPOILER]
+Once you have a recursive version working, write an alternative function that does it _without_ using recursion.

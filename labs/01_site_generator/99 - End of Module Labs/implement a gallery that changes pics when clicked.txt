@@ -1,5 +1,0 @@
-Extend the image displaying functionality of your site generator. If there are more than one image, make it so the image changes every time you click on it. Cycling through the available images.
-
-The image should cycle every few seconds on it's own, but the timer should be reset if the user clicks on it.
-
-Don't worry about making the transition nice until you've implemented the basic functionality.

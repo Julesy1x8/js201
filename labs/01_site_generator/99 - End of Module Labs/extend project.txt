@@ -1,5 +1,0 @@
-Make your own recipe that uses some more elements and then implement them.
-
-Maybe another type of section. Or a different way of building sections.
-
-If you come from the Python or Java course, build a way to convert standalone files to the JSON, which could then be served by a server and translated by your front end. It would be a website making machine!

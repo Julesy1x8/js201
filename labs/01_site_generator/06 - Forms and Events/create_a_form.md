@@ -1,13 +1,18 @@
 # Create a Form
 
-In these labs you'll create a form that takes someone's details
+In these labs you'll create a form that takes someone's details.
 
-1. Create a sandbox and make a form element.
-2. Use JavaScript to populate that form.
-3. Experiment with different input types. Make sure everything has an appropriate label.
-4. Have a date input.
-5. Make a submit handler to log all the information input in the form to the console using the `FormData` object.
+1. Create a sandbox and make a form element using JavaScript
+2. Use JavaScript to populate that form with some made up data.
+3. Experiment with different input types. Make sure everything has an appropriate label. Be sure to include:
 
-- radio buttons
-- multiple choice buttons
-- `select` elements
+    - Radio buttons
+    - Multiple choice buttons
+    - `select` elements
+    - At least one date input
+
+4. Make a submit handler to log all the information input in the form to the console using the `FormData` object.
+
+```js
+// Write the completed form JavaScript here
+```

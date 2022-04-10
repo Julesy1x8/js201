@@ -1,5 +1,0 @@
-The JSON site recipes that have form objects in them, have a required field that hasn't been used.
-
-Research the `required` attribute for form elements.
-
-Make it so that during form submit, some validation happens. Make sure that if a field doesn't have a value and is required, for the form submission to fail and to prompt the user that they need to fill out certain fields.

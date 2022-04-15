@@ -12,23 +12,6 @@ This course is all about vanilla JavaScript, but out in the professional world, 
 
 2. Choose one of these, set up a sandbox project, and create a "Hello world" example using that library. If the library you chose doesn't have an easy to follow example to get started, choose another.
 
-    ```js
-    // Write your hello world example here
-    
-    ```
+3. Create another sandbox project with JQuery, and learn just enough JQuery to select an HTML element, change it's text, and create a new HTML element whose value is based on the one you just changed.
 
-3. Create a sandbox project with JQuery, and learn just enough JQuery to select an HTML element, change it's text, and create a new HTML element whose value is based on the one you just changed.
-
-    ```js
-    // Write the code needed to do that here
-    ```
-
-4. Check out some CSS libraries, choose one you like and make a hello world example with one of them. That is, just style one single element with the tools or classes provided for by the library.
-
-    ```css
-    /* Add CSS here if needed */
-    ```
-
-    ```js
-    // Write your JS here
-    ```
+4. Check out some CSS libraries, choose one you like and make another sandbox hello world example with one of them. That is, just style one single element with the tools or classes provided for by the library.

@@ -1,15 +1,13 @@
 # Practicing `.forEach()`
 
+Include these exercises in the general solutions sandbox.
+
 1. Write four variations of a function that will accept a name and print out a greeting with:
 
     - Standard syntax
     - Arrow syntax on one line using as few characters as possible
     - Arrow syntax on more than one line
     - With function expression syntax
-
-    ```js
-    // Copy the code here
-    ```
 
 2. Take this array:
 
@@ -35,7 +33,3 @@
     ```
 
     Use `console.log()` to output the three arguments `forEach()` handles at each iteration.
-
-    ```js
-    // Copy your code here
-    ```

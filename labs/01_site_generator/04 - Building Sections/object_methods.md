@@ -1,10 +1,8 @@
 # Practicing `Object` Methods
 
-1. In a sandbox, use `Object.assign()` to create a button element, and assign it's inner text to "Press me!".
+Include these exercises in the general solutions sandbox.
 
-    ```js
-    // Write your code here
-    ```
+1. Use `Object.assign()` to create a button element, and assign it's inner text to "Press me!".
 
 2. Take this object:
 
@@ -68,12 +66,4 @@
     - `Object.entries()`
     - `Object.keys()`
 
-    ```js
-    // Copy your code here
-    ```
-
 3. Modify the functions to check if the value of the key is an array, if it is an array, then log each value of the array separately too.
-
-    ```js
-    // Copy modified code here
-    ```

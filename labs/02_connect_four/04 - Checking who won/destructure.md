@@ -4,6 +4,10 @@
 
 1. Assign three variables with different values on one line, that is, using only one `let` or `const` keyword.
 
+    ```js
+    // Write answer here
+    ```
+
 2. Take this object:
 
     ```js

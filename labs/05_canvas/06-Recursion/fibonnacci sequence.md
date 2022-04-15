@@ -57,3 +57,16 @@ fib(4) = 3
 ```
 
 Once you have a recursive version working, write an alternative function that does it _without_ using recursion.
+
+Put both in a sandbox project and display the results of:
+
+```js
+fib(12)
+fib(234)
+fib(999)
+fib(55)
+fib(754)
+fib(345)
+fib(222)
+fib(555)
+```

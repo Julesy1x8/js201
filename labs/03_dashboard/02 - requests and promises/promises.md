@@ -17,26 +17,10 @@
     
     ```
 
-3. Start a sandbox project locally, and make a request to an API using promises, log the output to the console.
+3. Start a sandbox project locally, and make a request to any API using promises, then display a selection of the data in the DOM.
 
-    ```js
-    // Copy your JavaScript here
-    ```
-
-4. In the same sandbox project, use `Promise.all()` to make two requests, and then log their results to the console.
-
-    ```js
-    // Copy your JavaScript here
-    ```
+4. In the same sandbox project, use `Promise.all()` to make two requests, and then display a selection of the results from both.
 
 5. Write a function that recieves a button element as an argument. The function should return a promise that resolves when the button is pressed. Once it resolves, it should log a message to the console.
 
-    ```js
-    // Copy your JavaScript here
-    ```
-
 6. Modify the function so that it doesn't resolve only once, but as many times as the button is pressed.
-
-    ```js
-    // Copy your JavaScript here
-    ```

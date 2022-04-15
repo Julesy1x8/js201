@@ -1,4 +1,4 @@
-# Project
+# Mini Project
 
 This is a project to put into practice everything you've learnt so far.
 

@@ -1,6 +1,6 @@
 # Use `setInterval`
 
-Use [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) to refactor the initial code for the bouncing ball:
+In a new sandbox, use [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) instead of `setTimeout()` to refactor the initial code for the bouncing ball:
 
 ```js
 
@@ -21,7 +21,7 @@ function animate(){
    p.y += yChange;
 
    draw.circle(p, r, "white");
-   setTimeout(animate, 10); // refactor to use setInterval...
+   setTimeout(animate, 10); // refactor to use setInterval
 }
 
 animate()

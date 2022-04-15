@@ -14,4 +14,6 @@ You have been given some starting points for some canvas sketches.
 
 Sketching with canvas can get _really_ complicated, so make sure you keep things simple, especially when just getting started with a new sketch.
 
+Keep each sketch on a new HTML file and a separate JS Script.
+
 Once you have your sketches, create a site that hosts all your sketches so you can share them.

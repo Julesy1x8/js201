@@ -3,7 +3,7 @@
 		{
 			"type": "header",
 			"header": "Bristles Painters for Hire",
-			"images": ["https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/painting_1.jpg"]
+			"images": ["https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/painting_1.jpg"]
 		},
 		{
 			"type": "text",
@@ -13,10 +13,10 @@
 		{
 			"type": "gallery",
 			"images": [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/painting_2.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/painting_3.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/painting_5.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/painting_6.jpg"
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/painting_2.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/painting_3.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/painting_5.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/painting_6.jpg"
 			]
 		},
 		
@@ -43,7 +43,7 @@
 				}
 			],
 			"images" : [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/painting_7.jpg"
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/painting_7.jpg"
 			]
 		}
 	]

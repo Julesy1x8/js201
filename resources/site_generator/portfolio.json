@@ -3,14 +3,14 @@
 		{
 			"type": "header",
 			"header": "Nomad Coder",
-			"background-image": "https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/coding_1.jpg"
+			"background-image": "https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/coding_1.jpg"
 		},
 		{
 			"type": "gallery",
 			"images": [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/coding_2.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/coding_3.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/coding_4.jpg"
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/coding_2.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/coding_3.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/coding_4.jpg"
 			]
 		},
 		{
@@ -34,7 +34,7 @@
 				}
 			],
 			"images" : [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/coding_5.jpg"
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/coding_5.jpg"
 			]
 		},
 		{
@@ -60,7 +60,7 @@
 				}
 			],
 			"images" : [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/coding_5.jpg"
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/coding_5.jpg"
 			]
 		}
 	]

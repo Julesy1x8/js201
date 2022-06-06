@@ -4,9 +4,9 @@
 			"type": "header",
 			"header": "Cooking with Matt",
 			"images": [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_1.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_2.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_3.jpg"
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_1.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_2.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_3.jpg"
 			]
 		},
 		{
@@ -17,10 +17,10 @@
 		{
 			"type": "gallery",
 			"images": [
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_4.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_5.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_6.jpg",
-				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/01_site_generator/p1_cooking_7.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_4.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_5.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_6.jpg",
+				"https://raw.githubusercontent.com/CodingNomads/js_201_labs/master/resources/site_generator/p1_cooking_7.jpg"
 			]
 		}
 	]

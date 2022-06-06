@@ -1,3 +1,7 @@
+# Practicing Reducing
+
+Create a new sandbox for these exercises.
+
 With this array:
 
 ```js
@@ -7,23 +11,25 @@ With this array:
 ];
 ```
 
-1. Write a function that takes this array as an argument and uses the `.reduce()` function to return the `sum`.
+1. Write a function that takes this array as an argument and uses the `.reduce()` function to return the `sum`. Present the original list and the sum in the DOM.
 
-2. Write another function that takes this array and uses `.reduce()` to create an object that shows the frequency of each number. For instance, something like this:
+2. Write another function that takes the same array and uses `.reduce()` to create an object that shows the frequency of each number. For instance, something like this:
 
-```js
-{
-    1:3
-    2:2
-    3:4
-    4:3
-    5:5
-    6:2
-    7:4
-    8:2
-    9:6
-    0:8
-}
-```
+    ```js
+    {
+        1:3
+        2:2
+        3:4
+        4:3
+        5:5
+        6:2
+        7:4
+        8:2
+        9:6
+        0:8
+    }
+    ```
 
-The keys represent the number, and the values represent the number of times that number has appeared in the array.
+    The keys represent the number, and the values represent the number of times that number has appeared in the array.
+
+    Present this information in the DOM.

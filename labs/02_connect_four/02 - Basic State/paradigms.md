@@ -1,7 +1,11 @@
+# Thinking About Paradigms
+
 Write a summary of what is meant by:
 
-- Procedural Programming
-- Object Oriented Design
-- Pure Functions
-- Declarative Language
-- Immutabile Object
+- Procedural programming
+- Object oriented design
+- Pure functions
+- Declarative languages
+- Immutable objects
+
+Write your summary here:

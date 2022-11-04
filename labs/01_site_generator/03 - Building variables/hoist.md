@@ -1,6 +1,6 @@
 # Hoisting
 
-Include these exercises in the general solutions sandbox.
+Include these exercises in a solutions sandbox for this section.
 
 Write some code necessary to demonstrate:
 

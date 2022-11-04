@@ -4,36 +4,36 @@
 
 Do _not_ fork!
 
-1. Clone this repository to your machine.
+1. **Clone** this repository to your machine.
 2. Create a _new_ repository on your GitHub account. _Don't_ fork this repository. Don't clone it yet. Take note of the URL of your new, blank GitHub repository:
 
-    ```text
-    git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-    ```
+   ```text
+   git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
+   ```
 
-3. From the command line, navigate to the local clone of _this_ repository and get the remote:
+3. From the command line, navigate to your local clone of _this_ repository and view the remote:
 
-    ```bash
-    $ git remote -v
-    origin git@github.com:CodingNomads/js_201_labs.git (fetch)
-    origin git@github.com:CodingNomads/js_201_labs.git (push)
-    ```
+   ```bash
+   $ git remote -v
+   origin git@github.com:CodingNomads/js_201_labs.git (fetch)
+   origin git@github.com:CodingNomads/js_201_labs.git (push)
+   ```
 
-    This should show you the URL of the Coding Nomads 201 repository, you'll be changing this to your new empty repository:
+   This should show you the URL of the Coding Nomads js_201_labs repository as above. You'll be changing this to your new empty repository:
 
-    ```bash
-    git remote set-url origin git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-    ```
+   ```bash
+   $ git remote set-url origin git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
+   ```
 
-    Then run `git remote -v` to check that it's been replaced.
+   Then run `git remote -v` to check that it's been replaced.
 
-    Finally, you are ready to push the labs to your blank repository:
+   Finally, you are ready to push the labs to your blank repository:
 
-    ```bash
-    git push
-    ```
+   ```bash
+   git push
+   ```
 
-    This will update your blank repository with all the commits done on the labs repository.
+   This will update your blank repository with all the commits done on the labs repository.
 
 4. Create a branch to work on, and once you are ready for your mentor to look over your work, create a pull request and request a review from them. Then you'll merge it together. Start new branches and pull requests for each section.
 
@@ -138,7 +138,7 @@ If you have a few, keep things organized by keeping an `index.html` file at the 
   │ └ chapter exercises
   │   ├ index.html
   │   └ script.js
-  | 
+  |
   ...
 
 ```
@@ -148,19 +148,17 @@ The top level index file can then be populated with links, the `href` attribute 
 ```html
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <!-- ... -->
+  </head>
 
-<head>
-  <!-- ... -->
-</head>
-
-<body>
-  <a href="process data">Process Data</a>
-  <a href="create table">Create Table</a>
-  <a href="special methods">Special Methods</a>
-  <a href="mini project">Mini Project</a>
-  <a href="chapter exercises">Chapter Exercises</a>
-</body>
-
+  <body>
+    <a href="process data">Process Data</a>
+    <a href="create table">Create Table</a>
+    <a href="special methods">Special Methods</a>
+    <a href="mini project">Mini Project</a>
+    <a href="chapter exercises">Chapter Exercises</a>
+  </body>
 </html>
 ```
 

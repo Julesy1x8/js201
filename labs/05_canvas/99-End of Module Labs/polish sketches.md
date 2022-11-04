@@ -16,4 +16,6 @@ Sketching with canvas can get _really_ complicated, so make sure you keep things
 
 Keep each sketch on a new HTML file and a separate JS Script.
 
-Once you have your sketches, create a site that hosts all your sketches so you can share them.
+---
+
+Once you have your sketches, create a site on GitHub that hosts all your sketches so you can share them.

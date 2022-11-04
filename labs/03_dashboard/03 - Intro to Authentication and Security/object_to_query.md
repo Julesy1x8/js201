@@ -1,3 +1,5 @@
+# Query Utilities
+
 Create two utility functions that will take a non-nested JavaScript object, and convert it into a URI query string.
 
 Likewise, make a function that will take a query string and turn it into an object.

@@ -9,3 +9,5 @@ In this course you'll be expected to follow the Git flow of:
 - Starting another branch (from `master` or `main`) to continue working on something else
 
 For more information, ask your tutor.
+
+- new sentence
